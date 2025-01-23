@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Etien Linza**, a 12-year-old student and passionate coder. I’ve been coding since childhood and have a strong foundation in Python, HTML, and am now learning C, C++, and C#. I’m particularly interested in **machine learning, neural networks, and interactive coding projects**. My goal is to turn my passion for coding into meaningful projects that give back to the community. I enjoy creating educational platforms, exploring image processing with OpenCV, and working on small fun coding challenges.
+Hello! I'm **Etien Linza**, a 13-year-old student and passionate coder. I’ve been coding since childhood and have a strong foundation in Python, HTML, and am now learning C, C++, and C#. I’m particularly interested in **machine learning, neural networks, and interactive coding projects**. My goal is to turn my passion for coding into meaningful projects that give back to the community. I enjoy creating educational platforms, exploring image processing with OpenCV, and working on small fun coding challenges.
 
 ### Key Interests:
 - **Machine Learning & Neural Networks**
