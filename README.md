@@ -56,7 +56,3 @@ I’m currently expanding my knowledge of **machine learning**, **C/C++**, and d
 
 - **Email:** linzaetien@yahoo.com
 - **GitHub:** [https://github.com/EtienLinza](https://github.com/EtienLinza)
-
----
-
-Feel free to reach out to discuss projects, collaborate, or chat about tech!
